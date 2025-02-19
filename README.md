@@ -1,4 +1,4 @@
-# SecurlyBypassv2.0
+ **MAIN EXTENSION UNBLOCKERS**
 1. RIGTOOLS UNBLOCKER: [https://devtoolbypass.playcode.io/]
    Press "Skip intro" and drag the button into a new tab.
    It should show a page that says "Untitled Document"

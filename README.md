@@ -9,7 +9,7 @@
    Scroll down and look at all the exploits!
 3. GoGuardian Bypass: [https://tylerhalltech.com/noguardian2/]
       It is a proxy that unblocks URLs by stuffing them in Iframes.
-4. INSECURLY bypass: [https://flixo-insecurly.neocities.org/]
+4. INSECURLY bypass: [https://securlykill.playcode.io/]
    Use the button to run the code in the about:blank.
    Toggle the switch on and off to block and unblock Securly.
 5. Flixo proxies,games,and unblockers: [https://playflixo2.vercel.app/index.html]
